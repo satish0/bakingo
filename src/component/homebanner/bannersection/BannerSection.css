@@ -1,0 +1,18 @@
+.pr-banner .swiper-button-prev:after, 
+.pr-banner .swiper-button-next:after {
+    font-size: 25px;
+    font-weight: 700;
+    color: #000;
+}
+.pr-banner .swiper-container {
+    /* z-index: -1; */
+}
+.pr-banner .swiper-wrapper {
+    z-index: -1;
+}
+.pr-banner .swiper-slide {
+    z-index: -1;
+}
+.pr-banner .swiper-pagination {
+    display: none !important;
+}

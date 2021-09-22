@@ -1,0 +1,10 @@
+.bg-heart-image {
+    padding: 0px 2.2% 0px;
+}
+.bg-heart-image-inner {
+    background: url(../../assets/images/background-heart.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    padding: 75px 2.2% 75px;
+}

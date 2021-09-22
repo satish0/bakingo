@@ -1,0 +1,108 @@
+.confession_stories {
+    padding: 100px 0 50px;
+}
+.confession_stories .confession_stories_inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.confession-image {
+    position: relative;
+    padding: 8px;
+}
+.confession-image .frame {
+    position: absolute;
+    top: -32px;
+    left: -56px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    min-width: 50%;
+    min-height: 50%;
+    z-index: 2;
+}
+.confession_stories .confession_stories_left {
+    max-width: 25%;
+    margin-left: 3%;
+}
+.confession_stories_left .swiper-button-prev, .confession_stories_left .swiper-button-next {
+    display: none;
+}
+.confession_stories .confession_stories_right {
+    max-width: 72%;
+    padding: 10px 20px;
+    padding-left: 7%;
+    background: #e33d74;
+    box-shadow: -5px 0px 20px 5px rgba(87,84,84,0.75) inset;
+    -webkit-box-shadow: -5px 0px 20px 5px rgba(87,84,84,0.75) inset;
+    -moz-box-shadow: -5px 0px 20px 5px rgba(87,84,84,0.75) inset;
+    border-radius: 10px;
+}
+
+.confession_stories_right .banner-text {
+    max-width: 90%;
+    margin: 0 auto;
+}
+.confession_stories .confession_stories_right h4 {
+    margin: 0 168px 1.2px 178px;
+    font-family: Courgette;
+    font-size: 50px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.26;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
+.confession_stories .confession_stories_right p {
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+} 
+.confession_stories .confession_stories_right a {
+    display: inline-block;
+    padding: 5px 30px;
+    background: #ffffff;
+    color: #e33d74;
+    text-transform: uppercase;
+    border-radius: 25px;
+    font-size: 15px;
+    text-decoration: none;
+    transition: 0.3s ease;
+    border: 1px solid #ffffff;
+}
+.confession_stories .confession_stories_right a:hover {
+    background: #e33d74;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    transition: 0.3s ease;
+}
+.confession_stories .confession_stories_right .swiper-container {
+    padding: 40px 0px;
+}
+.confession_stories .confession_stories_right .swiper-pagination {
+    position: absolute;
+    bottom: 10px;
+}
+
+.confession_stories_right .swiper-pagination-bullet {
+    background: #ffffff;
+    opacity: 0.5;
+}
+.confession_stories_right .swiper-pagination-bullet-active {
+    opacity: 1;
+}
+
+.confession_stories_right .swiper-button-prev:after, 
+.confession_stories_right .swiper-button-next:after {
+    font-size: 25px;
+    font-weight: 700;
+    color: #ffffff;
+}
