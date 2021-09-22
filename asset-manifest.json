@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/bakingo/static/css/main.f940c1e2.chunk.css",
+    "main.js": "/bakingo/static/js/main.2faf49fd.chunk.js",
+    "main.js.map": "/bakingo/static/js/main.2faf49fd.chunk.js.map",
+    "runtime-main.js": "/bakingo/static/js/runtime-main.1405a56a.js",
+    "runtime-main.js.map": "/bakingo/static/js/runtime-main.1405a56a.js.map",
+    "static/css/2.38e5daac.chunk.css": "/bakingo/static/css/2.38e5daac.chunk.css",
+    "static/js/2.30471b91.chunk.js": "/bakingo/static/js/2.30471b91.chunk.js",
+    "static/js/2.30471b91.chunk.js.map": "/bakingo/static/js/2.30471b91.chunk.js.map",
+    "static/js/3.058328d6.chunk.js": "/bakingo/static/js/3.058328d6.chunk.js",
+    "static/js/3.058328d6.chunk.js.map": "/bakingo/static/js/3.058328d6.chunk.js.map",
+    "index.html": "/bakingo/index.html",
+    "static/css/2.38e5daac.chunk.css.map": "/bakingo/static/css/2.38e5daac.chunk.css.map",
+    "static/css/main.f940c1e2.chunk.css.map": "/bakingo/static/css/main.f940c1e2.chunk.css.map",
+    "static/js/2.30471b91.chunk.js.LICENSE.txt": "/bakingo/static/js/2.30471b91.chunk.js.LICENSE.txt",
+    "static/media/MoreGiftSection.css": "/bakingo/static/media/background-heart.09232431.png",
+    "static/media/banner-1.f0a12e84.png": "/bakingo/static/media/banner-1.f0a12e84.png",
+    "static/media/confession-frame.2b787c58.png": "/bakingo/static/media/confession-frame.2b787c58.png",
+    "static/media/confession1.eab9a348.png": "/bakingo/static/media/confession1.eab9a348.png",
+    "static/media/confession2.77bbed3e.png": "/bakingo/static/media/confession2.77bbed3e.png",
+    "static/media/gift1.a8ef2f39.png": "/bakingo/static/media/gift1.a8ef2f39.png",
+    "static/media/gift2.9ea82b3b.png": "/bakingo/static/media/gift2.9ea82b3b.png",
+    "static/media/gift3.85ac5fa1.png": "/bakingo/static/media/gift3.85ac5fa1.png",
+    "static/media/gift4.85ebd484.png": "/bakingo/static/media/gift4.85ebd484.png",
+    "static/media/more-gift1.055b2a46.png": "/bakingo/static/media/more-gift1.055b2a46.png",
+    "static/media/more-gift2.2e113359.png": "/bakingo/static/media/more-gift2.2e113359.png",
+    "static/media/more-gift3.814c59da.png": "/bakingo/static/media/more-gift3.814c59da.png",
+    "static/media/more-gift4.56ea0430.png": "/bakingo/static/media/more-gift4.56ea0430.png",
+    "static/media/more-gift5.20d19ddf.png": "/bakingo/static/media/more-gift5.20d19ddf.png",
+    "static/media/more-gift6.c8454f6e.png": "/bakingo/static/media/more-gift6.c8454f6e.png",
+    "static/media/more-gift7.49bb7ad4.png": "/bakingo/static/media/more-gift7.49bb7ad4.png",
+    "static/media/more-gift8.187725e9.png": "/bakingo/static/media/more-gift8.187725e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1405a56a.js",
+    "static/css/2.38e5daac.chunk.css",
+    "static/js/2.30471b91.chunk.js",
+    "static/css/main.f940c1e2.chunk.css",
+    "static/js/main.2faf49fd.chunk.js"
+  ]
+}
