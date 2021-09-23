@@ -8,24 +8,28 @@
 }
 .confession-image {
     position: relative;
-    padding: 8px;
+    padding: 0px;
 }
 .confession-image .frame {
     position: absolute;
-    top: -32px;
-    left: -56px;
+    top: 0;
+    left: 0;
     right: 0;
     bottom: 0;
     margin: auto;
-    min-width: 50%;
-    min-height: 50%;
     z-index: 2;
+    width: 140%;
+    transform: translate(-14.8%, -3.5%);
 }
 .confession_stories .confession_stories_left {
     max-width: 25%;
     margin-left: 3%;
 }
 .confession_stories_left .swiper-button-prev, .confession_stories_left .swiper-button-next {
+    display: none;
+}
+
+.confession-image .swiper-pagination {
     display: none;
 }
 .confession_stories .confession_stories_right {

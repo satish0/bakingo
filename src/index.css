@@ -39,6 +39,17 @@ code {
     .img-text {
         margin-right: 0px !important;
     }
+    .confession_stories .confession_stories_right .swiper-container {
+      padding: 20px 0 !important;
+    }
+    .mgift-listing-inner li img {
+      max-width: 100% !important;
+    }
+}
+@media screen and (max-width: 991px) {
+  .confession_stories .confession_stories_right .swiper-container {
+    padding: 10px 0 !important;
+  }
 }
 @media screen and (max-width: 768px) {
   .gift-listing-inner {
@@ -66,16 +77,11 @@ code {
     margin-left: 0 !important;
   }
   .confession-image .frame {
-    top: -24px !important;
-    left: -10px !important;
     width: 80% !important;
   }
   .confession-image .banner-img img {
     width: 62% !important;
     max-width: 62% !important;
-  }
-  .confession-image .swiper-pagination {
-    display: none !important;
   }
   .confession_stories .confession_stories_right {
     max-width: 100% !important;
@@ -92,6 +98,12 @@ code {
   }
   .confession_stories .confession_stories_right a {
     margin-top: 30px !important;
+  }
+  .confession_stories .confession_stories_right .swiper-container {
+    padding: 40px 0 !important;
+  }
+  .confession-image .frame {
+    transform: translate(-0%, -4%) !important;
   }
 }
 
@@ -135,6 +147,13 @@ code {
   .confession_stories .confession_stories_right h4 {
     font-size: 30px !important;
   }
+  .heading-and-img {
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+  }
+  .heading-and-img .rose-day-img-text {
+    align-self: flex-end;
+  }
   .gift-listing-inner {
     margin-top: 10px !important;
   }
@@ -144,6 +163,13 @@ code {
   .gift-listing-inner li p,
   .mgift-listing-inner li p {
     font-size: 15px !important;
+  }
+  .confession-image .frame {
+    width: 90% !important;
+  }
+  .confession-image .banner-img img {
+    width: 70% !important;
+    max-width: 70% !important;
   }
 }
 @media screen and (max-width: 375px) {
