@@ -124,6 +124,16 @@ code {
   .mgift-listing-inner li {
     margin-top: 30px !important;
   }
+  .emotions-content {
+    text-align: center !important;
+    padding: 40px 0 !important;
+  }
+  .emotions-column-1 {
+    flex-direction: column !important;
+  }
+  .emotions-column-1 div {
+    /* padding: 0 0 !important; */
+  }
 }
 @media screen and (max-width: 425px) {
   .banner-text .banner-heading {

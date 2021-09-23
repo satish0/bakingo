@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bakingo/static/css/main.342ec4ac.chunk.css",
+    "main.css": "/bakingo/static/css/main.32426687.chunk.css",
     "main.js": "/bakingo/static/js/main.d98f6d18.chunk.js",
     "main.js.map": "/bakingo/static/js/main.d98f6d18.chunk.js.map",
     "runtime-main.js": "/bakingo/static/js/runtime-main.1405a56a.js",
@@ -12,7 +12,7 @@
     "static/js/3.058328d6.chunk.js.map": "/bakingo/static/js/3.058328d6.chunk.js.map",
     "index.html": "/bakingo/index.html",
     "static/css/2.38e5daac.chunk.css.map": "/bakingo/static/css/2.38e5daac.chunk.css.map",
-    "static/css/main.342ec4ac.chunk.css.map": "/bakingo/static/css/main.342ec4ac.chunk.css.map",
+    "static/css/main.32426687.chunk.css.map": "/bakingo/static/css/main.32426687.chunk.css.map",
     "static/js/2.30471b91.chunk.js.LICENSE.txt": "/bakingo/static/js/2.30471b91.chunk.js.LICENSE.txt",
     "static/media/MoreGiftSection.css": "/bakingo/static/media/background-heart.09232431.png",
     "static/media/banner-1.f0a12e84.png": "/bakingo/static/media/banner-1.f0a12e84.png",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.1405a56a.js",
     "static/css/2.38e5daac.chunk.css",
     "static/js/2.30471b91.chunk.js",
-    "static/css/main.342ec4ac.chunk.css",
+    "static/css/main.32426687.chunk.css",
     "static/js/main.d98f6d18.chunk.js"
   ]
 }

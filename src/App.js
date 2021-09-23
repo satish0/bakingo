@@ -4,6 +4,7 @@ import Header from './component/includes/header/Header';
 import GiftSection from './component/giftsection/GiftSection';
 import MoreGiftSection from './component/moreGiftSection/MoreGiftSection';
 import ConfessionStories from './component/confessionStories/ConfessionStories';
+import EmotionsSection from './component/emotionsSection/EmotionsSection';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <GiftSection />
       <MoreGiftSection />
       <ConfessionStories />
+      <EmotionsSection />
     </div>
   );
 }
