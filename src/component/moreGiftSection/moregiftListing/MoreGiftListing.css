@@ -14,11 +14,11 @@
 .mgift-listing-inner li {
     width: 24%;
     margin-top: 40px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .mgift-listing-inner li img {
-    border-radius: 5px;
+    border-radius: 15px;
     transition: border-radius ease-in-out 0.3s;
 }
 .mgift-listing-inner li:hover img {
@@ -29,7 +29,7 @@
 .mgift-listing-inner li p {
     margin: 15px 0 0;
     font-family: 'Lato', sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;

@@ -11,19 +11,19 @@ function GiftListing() {
             <ul className="gift-listing-inner">
                 <li>
                     <img src={gift1} />
-                    <p className="img-caption"></p>
+                    <p className="img-caption">Roses</p>
                 </li>
                 <li>
                     <img src={gift2} />
-                    <p className="img-caption"></p>
+                    <p className="img-caption">Roses</p>
                 </li>
                 <li>
                     <img src={gift3} />
-                    <p className="img-caption"></p>
+                    <p className="img-caption">Roses</p>
                 </li>
                 <li>
                     <img src={gift4} />
-                    <p className="img-caption"></p>
+                    <p className="img-caption">Roses</p>
                 </li>
             </ul>
         </React.Fragment>

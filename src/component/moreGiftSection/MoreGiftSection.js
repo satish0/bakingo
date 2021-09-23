@@ -11,7 +11,7 @@ function MoreGiftSection() {
                 <div className="bg-heart-image-inner">
                     <h4>More Gifts For Loved One</h4>
                     <img className="heart-img" src={heart_seprator} />
-                    <div className="gift-listing">
+                    <div className="mgift-listing">
                         <MoreGiftListing />
                     </div>
                 </div>

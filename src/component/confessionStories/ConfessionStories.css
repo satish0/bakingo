@@ -36,7 +36,7 @@
     box-shadow: -5px 0px 20px 5px rgba(87,84,84,0.75) inset;
     -webkit-box-shadow: -5px 0px 20px 5px rgba(87,84,84,0.75) inset;
     -moz-box-shadow: -5px 0px 20px 5px rgba(87,84,84,0.75) inset;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .confession_stories_right .banner-text {
@@ -44,7 +44,6 @@
     margin: 0 auto;
 }
 .confession_stories .confession_stories_right h4 {
-    margin: 0 168px 1.2px 178px;
     font-family: Courgette;
     font-size: 50px;
     font-weight: normal;
@@ -52,7 +51,7 @@
     font-style: normal;
     line-height: 1.26;
     letter-spacing: normal;
-    text-align: left;
+    text-align: center;
     color: #fff;
 }
 .confession_stories .confession_stories_right p {
@@ -77,6 +76,7 @@
     text-decoration: none;
     transition: 0.3s ease;
     border: 1px solid #ffffff;
+    font-style: normal !important;
 }
 .confession_stories .confession_stories_right a:hover {
     background: #e33d74;

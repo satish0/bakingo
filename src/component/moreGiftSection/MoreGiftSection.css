@@ -8,3 +8,7 @@
     background-position: top center;
     padding: 75px 2.2% 75px;
 }
+.bg-heart-image-inner h4 {
+    font-weight: 700;
+    font-size: 26px;
+}
